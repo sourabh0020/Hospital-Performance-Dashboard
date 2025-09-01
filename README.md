@@ -4,7 +4,7 @@
 This repository contains the Power BI dashboard that provides an in-depth analysis of hospital performance metrics in the region, encompassing data on length of stay (LOS), total discharges, hospital costs, and patient demographics. It aggregates data from a total of 151 hospitals and aims to provide insights to healthcare professionals and stakeholders for improving hospital performance and patient care.
 
 ## Home Page
-![Dashboard](https://github.com/sourabh0020/Apple-Retail-Sales-/blob/main/Snapshot%20of%20Advance%20Analysis.png)
+![Dashboard](https://github.com/sourabh0020/Hospital-Performance-Dashboard/blob/main/Home.png)
 
 ## Key Features
 - Total Hospitals: Insights from 151 hospitals with 627 surgeons.
@@ -57,8 +57,8 @@ To run this dashboard on your local machine, you need:
 2. Download the dashboard file from this repository.
 
 ## Contributors
-- [Your Name](link-to-your-profile)
-- [Collaborator's Name](link-to-collaborator-profile)
+- [Sourabh Yadav]([link-to-your-profile](https://www.linkedin.com/in/sourabhyadav96/))
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
